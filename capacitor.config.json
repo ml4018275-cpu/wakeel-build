@@ -1,0 +1,9 @@
+{
+  "appId": "com.manshewy.wakeel",
+  "appName": "وَكِيل",
+  "webDir": "www",
+  "backgroundColor": "#05080f",
+  "server": {
+    "androidScheme": "https"
+  }
+}
